@@ -1,2 +1,2 @@
 # Working-of-Photoresistor-with-Arduino
-A Python project that analyzes student marks from a CSV file to calculate averages, pass/fail status, and visualize performance using pandas and Matplotlib.
+An IoT system using ESP8266 and LDR sensor to automatically control lighting based on ambient brightness and enable remote control via the Blynk IoT app.
