@@ -25,4 +25,4 @@ Circuit Components
 - Breadboard and Jumper Wires  
 
 You can view and run the complete IoT Smart Light Control System circuit here
-https://www.tinkercad.com/things/9tOv4dfzR9C-copy-of-photoresistor-with-arduino-blocks
+https://www.tinkercad.com/things/9tOv4dfzR9C-working-of-photoresistor-with-arduino-blocks
